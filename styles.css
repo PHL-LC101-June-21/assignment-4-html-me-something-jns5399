@@ -1,1 +1,56 @@
-/* Write your CSS here! */
+body {
+    
+	margin:8px;
+    display: block;
+	background-color:darkolivegreen
+	
+}
+li {
+    padding-left: 250px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 150%;
+    color: blanchedalmond;
+}
+
+img {
+    padding-top: 50px;
+  padding-right: 100px;
+  padding-bottom: 50px;
+  padding-left: 250px;
+}
+
+h2 {
+    padding-left: 250px;
+    padding-right: 250px;
+    font-family: Georgia, serif;
+    font-size: 300%;
+}
+p{
+    font-size: 150%;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color:blanchedalmond;
+    padding-left: 250px;
+    padding-left: 250px;
+    padding-right: 250px;
+}
+footer {
+    padding-left: 250px;
+    font-size: 250%;
+    color:blanchedalmond;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    
+}
+h3 {
+    font-size: 200%;
+}
+#mainHeading {
+    color:red;
+    background-color: ivory;
+    padding-left: 750px;
+}
+.funParagraph {
+    color: green;
+    background-color: ivory;
+    padding-left: 250px;
+    padding-right: 250px;
+}
